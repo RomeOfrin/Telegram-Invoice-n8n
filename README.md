@@ -1,0 +1,1 @@
+This n8n workflow processes receipt images submitted via a Telegram bot. It validates whether an image is a receipt, extracts key details, and appends the data to a Google Sheet. If an image is not a receipt, the bot returns an error message.
